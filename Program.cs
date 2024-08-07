@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Full_Stack_Developer___XP_Inc.Models;
+
+Pessoa p = new Pessoa();
