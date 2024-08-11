@@ -1,0 +1,15 @@
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\bin\Debug\net8.0\Full-Stack-Developer---XP-Inc.exe
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\bin\Debug\net8.0\Full-Stack-Developer---XP-Inc.deps.json
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\bin\Debug\net8.0\Full-Stack-Developer---XP-Inc.runtimeconfig.json
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\bin\Debug\net8.0\Full-Stack-Developer---XP-Inc.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\bin\Debug\net8.0\Full-Stack-Developer---XP-Inc.pdb
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.AssemblyInfoInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.AssemblyInfo.cs
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.csproj.CoreCompileInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.sourcelink.json
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\refint\Full-Stack-Developer---XP-Inc.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.pdb
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\Full-Stack-Developer---XP-Inc.genruntimeconfig.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\obj\Debug\net8.0\ref\Full-Stack-Developer---XP-Inc.dll
