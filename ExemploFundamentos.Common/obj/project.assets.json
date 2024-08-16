@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\Full-Stack-Developer---XP-Inc.csproj",
-      "projectName": "Full-Stack-Developer---XP-Inc",
-      "projectPath": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\Full-Stack-Developer---XP-Inc.csproj",
+      "projectUniqueName": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+      "projectName": "ExemploFundamentos.Common",
+      "projectPath": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
       "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
-      "outputPath": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\obj\\",
+      "outputPath": "F:\\Full Stack Developer - XP Inc\\Full-Stack-Developer---XP-Inc\\ExemploFundamentos.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
