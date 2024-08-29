@@ -1,7 +1,11 @@
-﻿using Full_Stack_Developer___XP_Inc.Models;
+﻿using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
+int[] arrayInteiros = new int[3];
 
-pessoa1.Nome = "PessoaTeste";
-pessoa1.Idade = 22;
-pessoa1.Apresentar();
+arrayInteiros[0] = 10;
+arrayInteiros[1] = 20;
+arrayInteiros[2] = 30;
+
+for(int contador = 0; contador < arrayInteiros.Length; contador++){
+    Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+}

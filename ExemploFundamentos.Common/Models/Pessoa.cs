@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Full_Stack_Developer___XP_Inc.Models
+namespace ExemploFundamentos.Common.Models
 {
     public class Pessoa
     {
+        
         public string Nome { get; set; } = string.Empty;
 
         public int Idade { get; set; }

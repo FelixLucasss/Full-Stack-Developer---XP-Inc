@@ -1,0 +1,6 @@
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.AssemblyReference.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json

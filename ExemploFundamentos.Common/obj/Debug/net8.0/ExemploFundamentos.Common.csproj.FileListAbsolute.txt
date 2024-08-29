@@ -1,0 +1,12 @@
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.deps.json
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfo.cs
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.sourcelink.json
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
+F:\Full Stack Developer - XP Inc\Full-Stack-Developer---XP-Inc\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll
